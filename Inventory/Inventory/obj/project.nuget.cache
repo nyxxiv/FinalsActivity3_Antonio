@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lr3YTdS5Kao=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nyxx\\source\\repos\\Inventory\\Inventory\\Inventory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nyxx\\.nuget\\packages\\system.data.oledb\\10.0.0\\system.data.oledb.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
